@@ -1,4 +1,8 @@
 Hello World!
 How is is going? 
 
-<url>www.google.com<url>
+It's very easy to make some words **bold** and other words *italic* with Markdown. You can even [link to Google!](http://google.com)
+
+
+
+(https://google.com)
