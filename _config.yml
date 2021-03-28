@@ -1,1 +1,11 @@
 theme: jekyll-theme-cayman
+
+
+owner:
+  name: Jay Patel
+  avatar: bio-photo.jpg
+  bio: "An enhusiastic person interested in impacting the world by using his technical skills."
+  email: patel.3316@osu.edu
+  # Do not include the @ symbol in your Twitter username
+  linkedin: #username
+  github: jaypatel1227
